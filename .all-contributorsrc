@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Mayank898",
+      "name": "Mayank898",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72157367?v=4",
+      "profile": "https://github.com/Mayank898",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Mayank898",
+  "projectOwner": "Mayank898",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
